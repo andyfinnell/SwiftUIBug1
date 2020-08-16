@@ -13,6 +13,7 @@
 		A1EB674624E8AFDA002745B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1EB674524E8AFDA002745B9 /* Assets.xcassets */; };
 		A1EB674924E8AFDA002745B9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1EB674824E8AFDA002745B9 /* Preview Assets.xcassets */; };
 		A1EB674C24E8AFDA002745B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1EB674A24E8AFDA002745B9 /* LaunchScreen.storyboard */; };
+		A1EB675424E8B05A002745B9 /* Label.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1EB675324E8B05A002745B9 /* Label.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A1EB674824E8AFDA002745B9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A1EB674B24E8AFDA002745B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1EB674D24E8AFDA002745B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1EB675324E8B05A002745B9 /* Label.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Label.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A1EB673F24E8AFD7002745B9 /* AppDelegate.swift */,
 				A1EB674124E8AFD7002745B9 /* SceneDelegate.swift */,
 				A1EB674324E8AFD7002745B9 /* ContentView.swift */,
+				A1EB675324E8B05A002745B9 /* Label.swift */,
 				A1EB674524E8AFDA002745B9 /* Assets.xcassets */,
 				A1EB674A24E8AFDA002745B9 /* LaunchScreen.storyboard */,
 				A1EB674D24E8AFDA002745B9 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				A1EB674024E8AFD7002745B9 /* AppDelegate.swift in Sources */,
 				A1EB674224E8AFD7002745B9 /* SceneDelegate.swift in Sources */,
+				A1EB675424E8B05A002745B9 /* Label.swift in Sources */,
 				A1EB674424E8AFD7002745B9 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
